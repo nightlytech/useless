@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'aremat font';
+    src: url('arematfont-regular.woff2') format('woff2'),
+        url('arematfont-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
